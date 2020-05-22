@@ -1,0 +1,6 @@
+include ':app' //, ':foundation', ':cosxml', ':mtaUtils', ':logUtils', ':quic'
+//project(':foundation').projectDir        = new File(rootDir, '../../QCloudAndroid/library/QCloudFoundation/foundation')
+//project(':quic').projectDir              = new File(rootDir, '../../QCloudAndroid/library/QCloudFoundation/quic')
+//project(':cosxml').projectDir            = new File(rootDir, '../../QCloudAndroid/library/QCloudCosXml/cosxml')
+//project(':mtaUtils').projectDir          = new File(rootDir, '../../QCloudAndroid/library/QCloudCosXml/mtaUtils')
+//project(':logUtils').projectDir          = new File(rootDir, '../../QCloudAndroid/library/QCloudCosXml/logUtils')
