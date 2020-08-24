@@ -1,3 +1,3 @@
 # QUIC
 
-![ssd](https://zst-enroll-class-dev-1258344699.cos.ap-guangzhou.myqcloud.com/enroll-class%2F11133%2F20200821_102428_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191030161314.jpg)
+![ssd](https://000-1252386093.cos.ap-chengdu.myqcloud.com/2019-11/photo/IMG_20191126_215146.jpg?q-sign-algorithm=sha1&q-ak=AKIDX5MW7zqUM2k5zBEWDYzA8nWjZZyjCqqSiepCWhhIz5R8WfEPJ2S_H5C0BYKfjOmZ&q-sign-time=1598270004;1598273604&q-key-time=1598270004;1598273604&q-header-list=&q-url-param-list=&q-signature=89407ed7111de35d63d3d2e4d844d58719d0fabc&x-cos-security-token=cBN2llJjFrEIrRHqPIKioS7PxmOJtE0Ibdf7515476e3aed6cc8381f352385bc7PhfXNmcuZ4qnq9Sq4Bn2It5scebqJtWskN27RVYxfrnbGtVRk31eoAsIcy958C3fjvL3rxQr9nYBJ6j5Gl8rO3R8HMOxe85HTShuzenDTzZiVzwpHwSjOSxCtwp2mZaCJg0qw0gXauW9uMk1fm1nSpLYztD0fQhxFvNTIbWfYaI)
